@@ -1,4 +1,4 @@
-#include <stdlib.h>
+#include <stdio.h>
 #include "main.h"
 /**
 * _strstr - locates a substring
@@ -32,7 +32,3 @@ char *_strstr(char *haystack, char *needle)
 	}
 	return (NULL);
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
