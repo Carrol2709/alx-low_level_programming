@@ -99,7 +99,4 @@ char **strtow(char *str)
 	string[i] = NULL;
 	return (string);
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
+
