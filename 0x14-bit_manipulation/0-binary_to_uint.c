@@ -72,3 +72,7 @@ unsigned int binary_to_uint(const char *b)
 		printf("Result is %u.\n", result);
 		#endif
 	}
+
+	return (result);
+
+}
